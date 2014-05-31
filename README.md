@@ -1,4 +1,4 @@
 DCLobby
 =======
 
-A "Lobby Plugin" for the DerpCraft server 
+A "Lobby Plugin" for the [DerpCraft]server.
